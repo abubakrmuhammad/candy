@@ -32,6 +32,12 @@ body {
   color: #ea1c2c;
 }
 
+.navbar-dark .navbar-toggler {
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.5);
+  outline: none;
+}
+
 .navbar.scrolled {
   background-color: #dec0de;
   transition: background 240ms;
